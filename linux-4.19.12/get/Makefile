@@ -1,0 +1,1 @@
+obj-y:=sys_get_user.o
